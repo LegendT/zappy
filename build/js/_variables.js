@@ -1,5 +1,5 @@
 module.exports = {
-  "color.primary": "#BADA55",
+  "color.primary": "#BADA66",
   "color.accent": "#8B46FF",
   "color.success": "#11AF22",
   "color.error": "#BA1E45",
